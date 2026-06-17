@@ -1,0 +1,25 @@
+{
+  "administrative_details": {
+    "name_of_data_source": "University College London Hospitals NHS Trust",
+    "data_source_acronym": "UCLH",
+    "data_source_website": null,
+    "hma_ema_catalogue": null,
+    "main_references": null
+  },
+  "data_collection": {
+    "geography": "",
+    "population": "",
+    "healthcare_setting_type_of_data": "",
+    "data_collection_process": "",
+    "general_representativeness": "",
+    "data_source_coding": "",
+    "source_quality_control": "",
+    "linkage": "",
+    "mortality": "",
+    "source_limitations": ""
+  },
+  "omop_standardisation": {
+    "omop_mapping": "",
+    "omop_quality_control": ""
+  }
+}
