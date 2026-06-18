@@ -1,0 +1,25 @@
+{
+  "administrative_details": {
+    "name_of_data_source": "Great Ormond Street Hospital NHS Foundation Trust",
+    "data_source_acronym": "GOSH",
+    "data_source_website": "",
+    "hma_ema_catalogue": "",
+    "main_references": ""
+  },
+  "data_collection": {
+    "geography": "",
+    "population": "",
+    "healthcare_setting_type_of_data": "",
+    "data_collection_process": "",
+    "general_representativeness": "",
+    "data_source_coding": "",
+    "source_quality_control": "",
+    "linkage": "",
+    "mortality": "",
+    "source_limitations": ""
+  },
+  "omop_standardisation": {
+    "omop_mapping": "",
+    "omop_quality_control": ""
+  }
+}
